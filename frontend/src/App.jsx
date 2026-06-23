@@ -9,7 +9,7 @@ import {
   TrendingUp, Building2, Sliders, FileText
 } from "lucide-react";
 
-const API = "http://127.0.0.1:8000/api";
+const API = "https://loan-eligibility-api-nzbr.onrender.com/api";
 
 const DEFAULT_FORM = {
   Gender: "Male", Married: "Yes", Dependents: "0",
